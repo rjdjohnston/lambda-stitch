@@ -1,5 +1,5 @@
 # lambda-stitch
-# RJ was here
+
 A Lambda function that utilizes the `@eyevinn/hls-splice` library to stitch in another HLS VOD (e.g. ads) into an HLS VOD.
 
 ## POST `/stitch/`
